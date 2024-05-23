@@ -1,3 +1,3 @@
 # TREKBAG APP
 
-![TrekBag](trekbag.png)
+![TrekBag](trekbag-1.png)
